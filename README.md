@@ -2,8 +2,9 @@
 
 Check Receive Packet To Protocol.
 
+Development Tool : Android Studio  
+Language : Flutter 3.27.4/Dart 3.6.2  
 
-## HOW TO USE
 
 |OS|           Run Test            |
 |:---|:-----------------------------:|
@@ -13,21 +14,22 @@ Check Receive Packet To Protocol.
 |Windows|               O               |
 |macOS|               O               |
 |LINUX|               X               |
----
-### NEED 
-protocol.csv
 
-EX) example.csv
-|NAME|BYTES|
-|:---|---:|
-|START|1|
-|DATA 1|10|
-|DATA 2|15|
-|DATA 3|3|
-|DATA 4|2|
-|END|1|
+**How To Use Packet Checker**
+1. Create `protocol.csv`
 
-
+    EX) example.csv
+    |NAME|BYTES|
+    |:---|---:|
+    |START|1|
+    |DATA 1|10|
+    |DATA 2|7|
+    |DATA 3|3|
+    |END|1|
+2. Drag & Drop `protocol.csv` File To Packet Checker Page
+3. If you need XorCheck, Insert Hex value in `Exception Hex` & Calculate Hex value in `Decoding Hex` like `0xFF` or `FF`
+4. Write Receive Packet In `insert PACKET HEX`
+5. CheckBox is `Use / unUse` Option. unUse Option will dismiss
 
 ## Getting Develop
 
