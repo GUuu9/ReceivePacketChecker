@@ -50,6 +50,6 @@ Assets
 
 
 makeFlutter Project & Copy `lib`  
-add Package like inner `pubspec.yaml`
+Add Package & Assets like inner `pubspec.yaml`
 
 - if your Os is macOS need To Change `Runner` > `Signing & Capabilities` > `App Sandbox` > `File Access` > `User Selected File` option Read/Write
