@@ -45,3 +45,7 @@ Assets
 
 > File Drop & File Picker Reference
     https://cyj893.github.io/flutter/Flutter12/
+
+
+makeFlutter Project & Copy lib  
+add Package like inner .yml
