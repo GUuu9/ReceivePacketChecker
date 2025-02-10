@@ -48,4 +48,4 @@ Assets
 
 
 makeFlutter Project & Copy lib  
-add Package like inner .yml
+add Package like inner .yaml
