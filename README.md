@@ -47,5 +47,7 @@ Assets
     https://cyj893.github.io/flutter/Flutter12/
 
 
-makeFlutter Project & Copy lib  
-add Package like inner .yaml
+makeFlutter Project & Copy `lib`  
+add Package like inner `pubspec.yaml`
+
+- if your Os is macOS need To Change `Runner` > `Signing & Capabilities` > `App Sandbox` > `File Access` > `User Selected File` option Read/Write
